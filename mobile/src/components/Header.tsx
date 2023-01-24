@@ -14,7 +14,7 @@ export function Header() {
       >
         <Feather name="plus" color={colors.violet[500]} size={20} />
         <Text className="text-white ml-3 font-semibold text-base">
-          
+          Novo
         </Text>
       </TouchableOpacity>
     </View>
